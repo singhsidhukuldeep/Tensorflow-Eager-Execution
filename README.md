@@ -1,7 +1,6 @@
 # Tensorflow-Eager-Execution
 
 ### Blog Post: [http://kuldeepsinghsidhu.blogspot.com](http://kuldeepsinghsidhu.blogspot.com)
-​
 ### Google Colab: [Jupyter Notebook](https://colab.research.google.com/github/singhsidhukuldeep/Tensorflow-Eager-Execution/blob/master/Eager_Execution_(Tensorflow).ipynb)
 
 **Eager Execution (EE)** enables you to run operations immediately. In TensorFlow, you have to create a graph and run it within a session in order to execute the operations of the graph. On the other hand, EE enables you to run operations directly and inspect the output as the operations are executed. This is very useful especially for debugging. Moreover, EE is pythonic and intergrates pretty well with numpy so it makes programming really easy and flexible. The next version of TenosrFlow "2.0" will enable EE by default. 
